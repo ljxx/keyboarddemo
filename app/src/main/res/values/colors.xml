@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="flag_color_F7F7F7">#F7F7F7</color>
+    <color name="flag_color_EDEDED">#EDEDED</color>
+    <color name="flag_color_EF3A3A">#EF3A3A</color>
+    <color name="flag_color_FFFFFF">#FFFFFF</color>
+    <color name="flag_color_333333">#333333</color>
+    <color name="flag_color_FA5555">#FA5555</color>
+</resources>

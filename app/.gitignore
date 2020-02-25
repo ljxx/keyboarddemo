@@ -1,0 +1,10 @@
+*.settings
+bin/
+gen/
+*.project
+proguard
+/project.properties
+/build
+/local.properties
+*.iml
+bugly
